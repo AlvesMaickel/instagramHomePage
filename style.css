@@ -185,3 +185,9 @@ footer {
         border: 1px solid transparent;
     }
 }
+
+@media (max-width: 550px) {
+    footer {
+        display: none;
+    }
+}
